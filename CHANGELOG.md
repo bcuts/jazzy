@@ -10,7 +10,9 @@
 
 ##### Bug Fixes
 
-* None.
+* Fix support for Ruby 2.0.0.
+  [Jason Wray](https://github.com/friedbunny)
+  [#747](https://github.com/realm/jazzy/issues/747)
 
 ## 0.7.4
 
